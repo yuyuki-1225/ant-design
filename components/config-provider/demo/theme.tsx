@@ -9,7 +9,7 @@ type ThemeData = {
 
 const defaultData: ThemeData = {
   borderRadius: 6,
-  colorPrimary: '#1677ff',
+  colorPrimary: '#FF1919',
 };
 
 export default () => {
